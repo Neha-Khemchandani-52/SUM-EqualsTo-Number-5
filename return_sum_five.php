@@ -1,4 +1,9 @@
 <?php
+/***
+Description : Getting Numbers Whose Sum Equals To Number 5 Only
+Date : 1st October,2019
+Added By : Neha Khemchandani
+***/
 function checkSum() {
 $input = array(0,1,2,3,4,5); //input Array
 $length = count($input);     // getting length of Array
